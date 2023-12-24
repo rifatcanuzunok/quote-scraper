@@ -40,7 +40,7 @@ Run the application:
 go run main.go
 ```
 
-** Configuration
+## Configuration
 
 Configure the application using environment variables or a config.yaml file. Example config.yaml:
 
