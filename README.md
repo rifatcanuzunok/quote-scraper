@@ -22,7 +22,7 @@ Before running the application, ensure you have:
 
 ```bash
 git clone https://github.com/rifatcanuzunok/quote-scraper
-cd your-project-name
+cd quote-scraper
 ```
 
 
